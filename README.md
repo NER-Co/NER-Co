@@ -1,4 +1,14 @@
-# Hi there 👋
+# Hi there / Holass👋
+
+👋 ¡Hola! Soy Nico, desarrollador independiente y fundador de NER-Co.  
+✨ Me apasiona crear apps móviles que mezclan cultura, diseño y tecnología.  
+📱 Actualmente desarrollo Mitos y Leyendas, una app que rescata el folklore popular comenzando por Argentina.  
+🛠 Trabajo con tecnologías como React Native, Expo y Node.js, y me encanta aprender y compartir mis procesos.  
+🚀 Mi misión con NER-Co es crear experiencias memorables para el usuario final, tanto en juegos como en apps educativas o culturales.  
+  
+NER-Co: Apps con identidad propia.
+
+
 
 <!--
 **NER-Co/NER-Co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
