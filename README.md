@@ -1,13 +1,15 @@
 # Hi there / Holass👋
 
-👋 ¡Hola! Soy Nico, desarrollador y creador detrás de NER-Co.  
+👋 ¡Hola! Soy Nico, desarrollador independiente y fundador de NER-Co  
 🎮 En NER-Co nos enfocamos en crear aplicaciones y experiencias móviles que combinan entretenimiento, cultura y tecnología.  
-📱 Actualmente estamos trabajando en Mitos y Leyendas, una app que explora las tradiciones orales y mágicas de distintos países, empezando por Argentina, España...    
+📱 Actualmente estamos trabajando en Mitos y Leyendas, una app que explora las tradiciones populares y mágicas de distintos países.
 💡 Mi enfoque está en el desarrollo con React Native y el diseño de experiencias únicas para Android.  
 🚀 Mi objetivo: lanzar apps de calidad a Google Play que conecten con la gente.   
+  
+NER-Co: Apps con identidad propia.
 
 <!--
-👋 ¡Hola! Soy Nico, desarrollador independiente y fundador de NER-Co.  
+👋 ¡Hola! Soy Nico, desarrollador independiente y fundador de NER-Co.  desarrollador y creador detrás de NER-Co.  
 ✨ Me apasiona crear apps móviles que mezclan cultura, diseño y tecnología.  
 📱 Actualmente desarrollo Mitos y Leyendas, una app que rescata el folklore popular comenzando por Argentina.  
 🛠 Trabajo con tecnologías como React Native, Expo y Node.js, y me encanta aprender y compartir mis procesos.  
