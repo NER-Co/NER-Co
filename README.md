@@ -1,4 +1,4 @@
-# Hi there / Holass👋
+# Holass / Hi there👋
 
 👋 ¡Hola! Soy Nico, desarrollador independiente y fundador de NER-Co  
 🎮 En NER-Co nos enfocamos en crear aplicaciones y experiencias móviles que combinan entretenimiento, cultura y tecnología.  
