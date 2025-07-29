@@ -1,13 +1,30 @@
-# Holass / Hi there👋
+# Holass / Hi there 👋
 
-👋 ¡Hola! Soy Nico, desarrollador independiente y fundador de NER-Co  
+👋 ¡Hola! Soy Nico, desarrollador independiente y fundador de **NER-Co** y **NER-Book**.
+
+🎮 En **NER-Co** nos enfocamos en crear aplicaciones y experiencias móviles que combinan entretenimiento, cultura y tecnología.  
+📱 Actualmente estamos trabajando en **Mitos y Leyendas**, una app que explora las tradiciones populares y mágicas de distintos países.  
+📖 Paralelamente, a través de **NER-Book**, publico colecciones de libros digitales basados en los mismos contenidos culturales que desarrollamos para las apps, con el objetivo de difundir el folklore y las leyendas hispanohablantes en un formato editorial.
+
+💡 Mi enfoque está en el desarrollo con React Native y el diseño de experiencias únicas para Android.  
+🚀 Mi objetivo: lanzar apps y libros digitales de calidad que conecten con la gente.
+
+---
+
+**NER-Co**: Apps con identidad propia.  
+**NER-Book**: Publicaciones digitales con raíz cultural.
+
+
+<!--# Holass / Hi there👋
+
+👋 ¡Hola! Soy Nico, desarrollador independiente y fundador de NER-Co y NER-Book
 🎮 En NER-Co nos enfocamos en crear aplicaciones y experiencias móviles que combinan entretenimiento, cultura y tecnología.  
 📱 Actualmente estamos trabajando en Mitos y Leyendas, una app que explora las tradiciones populares y mágicas de distintos países.
 💡 Mi enfoque está en el desarrollo con React Native y el diseño de experiencias únicas para Android.  
 🚀 Mi objetivo: lanzar apps de calidad a Google Play que conecten con la gente.   
   
 NER-Co: Apps con identidad propia.
-
+-->
 <!--
 👋 ¡Hola! Soy Nico, desarrollador independiente y fundador de NER-Co.  desarrollador y creador detrás de NER-Co.  
 ✨ Me apasiona crear apps móviles que mezclan cultura, diseño y tecnología.  
